@@ -1,0 +1,38 @@
+{
+  "name": "Kurawa Media",
+  "short_name": "Kurawa Media",
+  "start_url": "https://www.kurawa.info/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Masuk Dan Baca Berbagai Kabar Menarik Dari Seputar Dunia",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-fXySHkGjTBk/XXuOvCZD_pI/AAAAAAAAAUQ/NJtprO-XQBYW8zx_Jd38E4j8M-SqJNkZwCLcBGAsYHQ/s48/48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-fXySHkGjTBk/XXuOvCZD_pI/AAAAAAAAAUQ/NJtprO-XQBYW8zx_Jd38E4j8M-SqJNkZwCLcBGAsYHQ/s72/72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-fXySHkGjTBk/XXuOvCZD_pI/AAAAAAAAAUQ/NJtprO-XQBYW8zx_Jd38E4j8M-SqJNkZwCLcBGAsYHQ/s96/96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-fXySHkGjTBk/XXuOvCZD_pI/AAAAAAAAAUQ/NJtprO-XQBYW8zx_Jd38E4j8M-SqJNkZwCLcBGAsYHQ/s144/144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-fXySHkGjTBk/XXuOvCZD_pI/AAAAAAAAAUQ/NJtprO-XQBYW8zx_Jd38E4j8M-SqJNkZwCLcBGAsYHQ/s168/168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-fXySHkGjTBk/XXuOvCZD_pI/AAAAAAAAAUQ/NJtprO-XQBYW8zx_Jd38E4j8M-SqJNkZwCLcBGAsYHQ/s192/192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-fXySHkGjTBk/XXuOvCZD_pI/AAAAAAAAAUQ/NJtprO-XQBYW8zx_Jd38E4j8M-SqJNkZwCLcBGAsYHQ/s512/512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
